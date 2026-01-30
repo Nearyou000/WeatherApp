@@ -1,6 +1,6 @@
 ## Название
 Weather App
-(https://images.icon-icons.com/294/PNG/256/Weather_31085.png)
+!(https://images.icon-icons.com/294/PNG/256/Weather_31085.png)
 
 
 ## Инструкции по сборке проекта
